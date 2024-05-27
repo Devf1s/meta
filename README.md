@@ -1,7 +1,7 @@
 ____
 # Meta
 ____
-[Site](https://1kiritos1.github.io/meta/)
+[Site](https://devf1s.github.io/meta/)
 
 ### Used:
 * ***HTML***
